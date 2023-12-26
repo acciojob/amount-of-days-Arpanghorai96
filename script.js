@@ -6,4 +6,5 @@ let daysOfAYear=(year)=>{
 	else
 		return 365;
 }
-daysOfAYear(year);
+
+console.log(daysOfAYear(year);)
